@@ -9,7 +9,7 @@ math: false
 
 # Xiao Chen
 Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
-[![xiaochenpro](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochenpro) · [![xiaochendev](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/xiaochendev)
+[![xiaochenpro](https://img.shields.io/badge/xiaochenpro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochenpro) · [![xiaochendev](https://img.shields.io/badge/xiaochendev-181717?logo=github&logoColor=white)](https://github.com/xiaochendev)
 
 
 # Summary
