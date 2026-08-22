@@ -9,7 +9,8 @@ math: false
 
 # Xiao Chen
 Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
-[[LinkedIn](https://www.linkedin.com/in/xiaochenpro)] · [GitHub](https://github.com/xiaochendev)
+[![xiaochenpro](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochenpro) · [![xiaochendev](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/xiaochendev)
+
 
 # Professional Summary
 Backend Software Engineer with hands-on experience building REST APIs, authentication services, asynchronous streaming systems, database-backed applications, and data-processing pipelines using Python, FastAPI, Node.js, and MongoDB. Experienced in designing modular backend services, implementing secure authentication and validation, and developing real-time systems with asynchronous processing and Server-Sent Events. Additional foundation in machine learning, speech recognition, LLM applications, and Python-based data-processing workflows.
@@ -24,7 +25,7 @@ Frontend: React, Vite, Recharts
 Tools: Git, GitHub, Uvicorn, Postman, Thunder Client, Jira
 
 # Selected Engineering Projects
-[Streaming Data Platform] (https://github.com/xiaochendev/streaming-data/)
+[Streaming Data Platform](https://github.com/xiaochendev/streaming-data/)
 Python · FastAPI · asyncio · Server-Sent Events · React · TypeScript
 
 - Refactored a real-time market-data application from HTTP polling to a FastAPI backend using Server-Sent Events for continuous server-to-client updates.
@@ -35,7 +36,7 @@ Python · FastAPI · asyncio · Server-Sent Events · React · TypeScript
 - Developed a React/TypeScript frontend with reusable streaming state management and Recharts-based data visualization.
 - Added health-check endpoints and CORS configuration for reliable browser-based integration.
 
-[Game Platform Backend] (https://github.com/xiaochendev/capstone-backend)
+[Game Platform Backend](https://github.com/xiaochendev/capstone-backend)
 Node.js · Express.js · MongoDB · Mongoose · JWT · bcrypt · REST APIs
 
 - Designed a modular backend organized around routes, controllers, models, middleware, database connectivity, and centralized error handling.
@@ -46,7 +47,7 @@ Node.js · Express.js · MongoDB · Mongoose · JWT · bcrypt · REST APIs
 - Used Postman/Thunder Client to test APIs, troubleshoot endpoint behavior, and verify authentication and error-handling workflows.
 
 AI/LLM Application Pipeline
-Python · Machine Learning · LLMs · Prompt Engineering
+Machine Learning · Python · LLMs · Prompt Engineering
 
 - Built Python-based LLM workflows for document summarization and automated file-processing tasks.
 - Developed modular workflows for AI model evaluation, testing, and iterative experimentation.
@@ -55,7 +56,7 @@ Python · Machine Learning · LLMs · Prompt Engineering
 
 
 Speech Recognition / ML Pipeline
-Python · TensorFlow · Keras · NumPy · librosa · scikit-learn
+TensorFlow · Python · Keras · NumPy · librosa · scikit-learn
 
 - Built a Python-based speech-recognition workflow covering audio preprocessing, feature extraction, model training, and evaluation.
 - Trained a neural-network-based speech-recognition model using approximately 60,000 audio samples across 30 spoken-command categories.
@@ -64,8 +65,8 @@ Python · TensorFlow · Keras · NumPy · librosa · scikit-learn
 - Maintained a reproducible notebook-based workflow for iterative experimentation, debugging, and model evaluation.
 
 
-[Django Web Application] (https://github.com/xiaochendev/smile)
-Python · Django · REST APIs · SQL
+[Django Web Application](https://github.com/xiaochendev/smile)
+Django · Python · REST APIs · SQL
 
 - Developed a Django web application supporting user profiles, posts, images, comments, and database-backed functionality.
 - Worked with Django models, forms, media handling, application configuration, and API-oriented functionality.
@@ -92,6 +93,6 @@ Paralegal — Wang Law Office
 - SUNY New Paltz — B.S. Biology, Mathematics Minor - 2017
 
 # Certifications
-- ISC2 [Certified in Cybersecurity (CC)] (https://www.credly.com/badges/8895bcb9-6d8d-49fd-a684-0c2f6fba1f80/public_url)
-- [Google Cybersecurity Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/UG68H5E6YU7T)
-- [IBM AI Developer Professional Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/NU9DV53L53YH)
+- ISC2 [Certified in Cybersecurity (CC)](https://www.credly.com/badges/8895bcb9-6d8d-49fd-a684-0c2f6fba1f80/public_url)
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UG68H5E6YU7T)
+- [IBM AI Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NU9DV53L53YH)
