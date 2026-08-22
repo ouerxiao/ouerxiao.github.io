@@ -9,9 +9,8 @@ math: false
 
 # Xiao Chen
 Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
-<a href="https://www.linkedin.com/in/xiaochenpro"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"/>xiaochenpro</a> · <a href="https://github.com/xiaochendev"><img src="https://cdn.simpleicons.org/github/181717" width="16"/>xiaochendev</a>
 
-
+[in/xiaochenpro](https://www.linkedin.com/in/xiaochenpro) · [github/xiaochendev](https://github.com/xiaochendev)
 
 # Summary
 Backend Software Engineer with hands-on experience building REST APIs, authentication services, asynchronous streaming systems, database-backed applications, and data-processing pipelines using Python, FastAPI, Node.js, and MongoDB. Experienced in designing modular backend services, implementing secure authentication and validation, and developing real-time systems with asynchronous processing and Server-Sent Events. Additional foundation in machine learning, speech recognition, LLM applications, and Python-based data-processing workflows.
@@ -78,8 +77,8 @@ Python · Django · REST APIs · SQL
 - Worked with Django models, forms, media handling, application configuration, and API-oriented functionality.
 - Applied modular application structure and framework conventions while debugging and maintaining backend functionality.
 
-# Production Experience
-**WordPress Web Application**
+
+**WordPress Web Application** - Production Experience
 
 DigitalOcean · WordPress · Google Analytics · 10/2017 – 05/2018
 
