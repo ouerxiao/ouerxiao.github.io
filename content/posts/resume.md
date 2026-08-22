@@ -16,17 +16,12 @@ Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
 Backend Software Engineer with hands-on experience building REST APIs, authentication services, asynchronous streaming systems, database-backed applications, and data-processing pipelines using Python, FastAPI, Node.js, and MongoDB. Experienced in designing modular backend services, implementing secure authentication and validation, and developing real-time systems with asynchronous processing and Server-Sent Events. Additional foundation in machine learning, speech recognition, LLM applications, and Python-based data-processing workflows.
 
 # Skills
-**Languages**: Python, JavaScript, TypeScript, SQL
-
-**Frameworks**:  Node.js, FastAPI, Django, Express.js, React
-
-**Databases**: MongoDB, MySQL
-
-**Security**: JWT, authentication, authorization, bcrypt, secure cookies, CORS, input validation
-
-**AI/ML**: Machine Learning, Neural Networks, Speech Recognition, Audio Processing, LLMs, Prompt Engineering, TensorFlow, Keras, scikit-learn, NumPy, librosa
-
-**Tools**: Git, GitHub, Uvicorn, Postman, Thunder Client, Jira
+- **Languages**: Python, JavaScript, TypeScript, SQL
+- **Frameworks**:  Node.js, FastAPI, Django, Express.js, React
+- **Databases**: MongoDB, MySQL
+- **Security**: JWT, authentication, authorization, bcrypt, secure cookies, CORS, input validation
+- **AI/ML**: Machine Learning, Neural Networks, Speech Recognition, Audio Processing, LLMs, Prompt Engineering, TensorFlow, Keras, scikit-learn, NumPy, librosa
+- **Tools**: Git, GitHub, Uvicorn, Postman, Thunder Client, Jira
 
 # Projects
 **[Streaming Data Platform](https://github.com/xiaochendev/streaming-data/)**
