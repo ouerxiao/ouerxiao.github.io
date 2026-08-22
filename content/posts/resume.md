@@ -17,12 +17,16 @@ Backend Software Engineer with hands-on experience building REST APIs, authentic
 
 # Skills
 **Languages**: Python, JavaScript, TypeScript, SQL
-**Backend**: FastAPI, Django, Node.js, Express.js, REST APIs, HTTP, Server-Sent Events (SSE), asynchronous programming, middleware
-**Databases**: MongoDB, Mongoose, MySQL
+
+**Frameworks**:  Node.js, FastAPI, Django, Express.js, React
+
+**Databases**: MongoDB, MySQL
+
 **Security**: JWT, authentication, authorization, bcrypt, secure cookies, CORS, input validation
+
 **AI/ML**: Machine Learning, Neural Networks, Speech Recognition, Audio Processing, LLMs, Prompt Engineering, TensorFlow, Keras, scikit-learn, NumPy, librosa
-**Frontend**: React, Vite, Recharts
-Tools: Git, GitHub, Uvicorn, Postman, Thunder Client, Jira
+
+**Tools**: Git, GitHub, Uvicorn, Postman, Thunder Client, Jira
 
 # Projects
 **[Streaming Data Platform](https://github.com/xiaochendev/streaming-data/)**
