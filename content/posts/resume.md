@@ -9,7 +9,7 @@ math: false
 
 # Xiao Chen
 Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
-<a href="https://www.linkedin.com/in/xiaochenpro"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" height="16"> xiaochenpro</a> · <a href="https://github.com/xiaochendev"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="16" height="16"> xiaochendev</a>
+<a href="https://www.linkedin.com/in/xiaochenpro"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"/>xiaochenpro</a> · <a href="https://github.com/xiaochendev"><img src="https://cdn.simpleicons.org/github/181717" width="16"/>xiaochendev</a>
 
 
 
