@@ -9,7 +9,15 @@ math: false
 
 # Xiao Chen
 Backend Software Engineer | Python | FastAPI | Node.js | AI/ML
-[![xiaochenpro](https://img.shields.io/badge/xiaochenpro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochenpro) · [![xiaochendev](https://img.shields.io/badge/xiaochendev-181717?logo=github&logoColor=white)](https://github.com/xiaochendev)
+<a href="https://www.linkedin.com/in/xiaochenpro">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" height="16" />
+  xiaochenpro
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/xiaochendev">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="16" height="16" />
+  xiaochendev
+</a>
 
 
 # Summary
@@ -80,16 +88,13 @@ Python · Django · REST APIs · SQL
 # Production Experience
 **WordPress Web Application**
 
-DigitalOcean · WordPress · Google Analytics
-10/2017 – 05/2018
+DigitalOcean · WordPress · Google Analytics · 10/2017 – 05/2018
 
 - Deployed and maintained a production WordPress application on DigitalOcean serving thousands of daily users.
 - Managed application configuration, plugin integrations, maintenance, and Google Analytics tracking.
 
 # Professional Experience
-**Paralegal — Wang Law Office**
-
-07/2018 – 12/2018
+**Paralegal — Wang Law Office**  · 07/2018 – 12/2018
 
 - Managed client communications, scheduling, legal documentation, and office operations in a fast-paced professional environment.
 - Served as a Mandarin-English liaison between attorneys and clients while maintaining accuracy, confidentiality, and professionalism.
